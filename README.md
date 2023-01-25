@@ -3,3 +3,5 @@
 * Staging Area에 추가하기  git add
 * 특정 버전을 생성하기  git commit
 * 원격 저장소의 master  브랜치에 올리기 git push origin master
+
+* dev/login 브랜치에서 bug 수정함
